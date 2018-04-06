@@ -1,0 +1,8 @@
+[package]
+name = "assert_infrequent"
+version = "0.1.0"
+authors = ["Jonathan Behrens <fintelia@gmail.com>"]
+
+[dependencies]
+backtrace = "0.3.5"
+lazy_static = "1.0.0"
